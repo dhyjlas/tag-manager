@@ -1,19 +1,6 @@
 # tag-manager
 
-## Project setup
-```
-yarn install
-```
+快速选择NovelAI的TAG
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 访问地址
+[dhyjlas.github.io/tag-manager](https://dhyjlas.github.io/tag-manager/).
